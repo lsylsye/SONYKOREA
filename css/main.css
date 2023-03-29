@@ -115,6 +115,7 @@ body {
     font-family: 'Pretendard-Regular';
     color: #333;
     line-height: 1;
+    min-width: 1920px;
 }
 .title {
     text-align: center;
